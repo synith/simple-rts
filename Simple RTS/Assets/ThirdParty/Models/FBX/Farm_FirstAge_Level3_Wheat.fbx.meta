@@ -3,7 +3,12 @@ guid: 154cd745253ffb64eae38208a593fb50
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheat
+    second: {fileID: 2100000, guid: d381ac18238f2144bb9d2e51096c87b1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

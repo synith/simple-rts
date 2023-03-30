@@ -10,6 +10,7 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 Simple RTS/[Aa]ssets/TextMesh Pro
+Simple RTS/[Aa]ssets/ThirteenPixels
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
